@@ -1,5 +1,8 @@
 {
-  "cSpell.words": ["browserslist"],
+  "cSpell.words": [
+    "browserslist",
+    "predeploy"
+  ],
   "files.associations": {
     "*.js": "javascriptreact"
   },
